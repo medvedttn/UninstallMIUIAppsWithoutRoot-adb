@@ -1,0 +1,1 @@
+# UninstallMIUIAppsWithoutRoot-adb
