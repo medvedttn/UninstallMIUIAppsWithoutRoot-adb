@@ -16,5 +16,6 @@ adb shell pm uninstall --user 0 com.android.wallpaper.livepicker
 adb shell pm uninstall --user 0 com.android.phasebeam
 adb shell pm uninstall --user 0 com.google.android.youtube
 adb shell pm uninstall --user 0 com.google.android.music
+adb shell pm uninstall --user 0 com.miui.smsextra.internal.SmsExtraApp
 echo "Done!"
 adb disconnect
